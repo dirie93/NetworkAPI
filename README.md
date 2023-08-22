@@ -18,7 +18,7 @@ SO THAT my website can handle large amounts of unstructured data
  
 ## Walk-Through video
 
-Please see a detailed walk-through demonstration of my app [here]()
+Please see a detailed walk-through demonstration of my app [HERE]()
 
 ![image](https://github.com/dirie93/NetworkAPI/assets/128429238/be76c8d6-88e9-47d4-b2df-ad0320643fe8)
 
