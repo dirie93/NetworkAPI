@@ -13,8 +13,7 @@ SO THAT my website can handle large amounts of unstructured data
 
 <br>
 
-![image](https://github.com/dirie93/NetworkAPI/assets/128429238/2864fdec-4963-4068-8cb2-865287983f34)
-
+![image](https://github.com/dirie93/NetworkAPI/assets/128429238/46153252-03e9-4c86-b989-f3cd6eeb0010)
 
  
 ## Walk-Through video
@@ -26,4 +25,4 @@ Please see a detailed walk-through demonstration of my app [here]()
 
 ## Contact
 
-Visit my [Github](https://github.com/dirie93/SVG-Gen)
+Visit my [Github](https://github.com/dirie93/NetworkAPI)
